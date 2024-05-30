@@ -33,7 +33,7 @@ const App = () => {
                 </p>
               </div>
             </div>
-            <div className=" bg-gradient-to-br  from-purple-700 via-black to-purple-500 p-0.5 rounded-3xl lg:mb-40 sm:mx-5 ">
+            <div className=" bg-gradient-to-br  from-purple-700 via-black to-purple-500 p-0.5 rounded-3xl set sm:mx-5 ">
               <div className="block max-w-sm p-6  rounded-3xl shadow hover:bg-gray-100 bg-gradient-to-br  from-black via-gray-950 to-indigo-950 pb-20 ">
                 <h5 className="mb-2 text-2xl text-center font-bold tracking-tight text-gray-900 dark:text-white">
                   Community

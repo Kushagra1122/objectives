@@ -5,9 +5,11 @@
   --gray: #2e2e2e;
 }
 
-*{
-/* background-color: black; */
-}
+@media only screen and (min-width: 895px) {
+  .set{
+    margin-bottom: 160px;
+  }
+  }
 
 body {
   font-family: "Poppins", sans-serif;
